@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "320759527036",
+    "firebase_url": "https://rickmortywallpaper-f2e77.firebaseio.com",
+    "project_id": "rickmortywallpaper-f2e77",
+    "storage_bucket": "rickmortywallpaper-f2e77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320759527036:android:c55f362d00c47d60",
+        "android_client_info": {
+          "package_name": "com.yasin.yasin_000.rickmortywallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320759527036-mei555to4teb405r21t58tsstrmhvesh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yasin.yasin_000.rickmortywallpaper",
+            "certificate_hash": "5b579abbee8941a9b5ee19360cf0a508cd39f59f"
+          }
+        },
+        {
+          "client_id": "320759527036-s526s46npf7qdb10gqk632vmb5q6hkpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_d06bEPePvo05NivppwwExDsETBe7lGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320759527036-s526s46npf7qdb10gqk632vmb5q6hkpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
